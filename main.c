@@ -9,3 +9,8 @@ int main(int argc, char const *argv[]) {
   sub3();
   return 0;
 }
+
+void sub1(){
+	printf("My name is Hwang Jae Yeon");
+}
+
