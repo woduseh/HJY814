@@ -14,3 +14,6 @@ void sub1(){
 	printf("My name is Hwang Jae Yeon");
 }
 
+void sub3(){
+	printf("sub3");
+}
