@@ -17,3 +17,7 @@ void sub1(){
 void sub2() {
 	printf("MY name is Yechan Kim");
 }
+
+void sub3(){
+	printf("sub3");
+}
